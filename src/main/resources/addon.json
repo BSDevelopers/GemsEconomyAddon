@@ -1,0 +1,12 @@
+{
+  "name": "GemsEconomy",
+  "author": "brainsynder",
+
+  "version": 0.2,
+  "supported-build": 163,
+
+  "description": [
+    "&7This addon links into the GemsEconomy Plugin",
+    "&7To make it possible to buy pets with in-game money"
+  ]
+}
